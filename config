@@ -1,0 +1,10 @@
+  "key": {
+    "name": "name",
+    "priority": 
+    "sort_order": 
+    "themes_style": "tree",
+    "title_tanker": "lines.key",
+    "types": [
+      "sms",
+    ]
+  },
